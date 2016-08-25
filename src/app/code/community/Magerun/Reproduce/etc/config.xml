@@ -1,0 +1,34 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * This file is part of Magerun
+ */
+-->
+<config>
+    <modules>
+        <Magerun_Reproduce>
+            <version>1.0.0.0</version>
+        </Magerun_Reproduce>
+    </modules>
+    <global>
+        <models>
+            <tag>
+                <rewrite>
+                    <tag>Magerun_Reproduce_Model_FatalRewrite</tag>
+                </rewrite>
+            </tag>
+            <enterprise_cms>
+                <rewrite>
+                    <config>Some_Extension_Model_Rewrite_Enterprise_CmsConfig</config>
+                </rewrite>
+            </enterprise_cms>
+        </models>
+        <resources>
+            <setup>
+                <setup>
+                    <module>Magerun_Reproduce</module>
+                </setup>
+            </setup>
+        </resources>
+    </global>
+</config>

@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!--
+/**
+ * Magerun
+ */
+-->
+<config>
+    <modules>
+        <Magerun_Reproduce>
+            <active>true</active>
+            <codePool>community</codePool>
+        </Magerun_Reproduce>
+    </modules>
+</config>
