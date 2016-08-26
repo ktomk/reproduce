@@ -1,0 +1,6 @@
+<?php
+
+class Magerun_Reproduce2_Model_Rewrite_Enterprise_CmsConfig extends Magerun_Reproduce2_Model_Rewrite_Enterprise_CmsConfigResolver
+{
+
+}

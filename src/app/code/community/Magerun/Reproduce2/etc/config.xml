@@ -6,15 +6,15 @@
 -->
 <config>
     <modules>
-        <Magerun_Reproduce>
+        <Magerun_Reproduce2>
             <version>1.0.0.0</version>
-        </Magerun_Reproduce>
+        </Magerun_Reproduce2>
     </modules>
     <global>
         <models>
             <enterprise_cms>
                 <rewrite>
-                    <config>Magerun_Reproduce_Model_Rewrite_Enterprise_CmsConfig</config>
+                    <config>Magerun_Reproduce2_Model_Rewrite_Enterprise_CmsConfig</config>
                 </rewrite>
             </enterprise_cms>
         </models>

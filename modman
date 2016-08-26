@@ -1,0 +1,4 @@
+src/app/code/community/Magerun/Reproduce/ app/code/community/Magerun/Reproduce/
+src/app/etc/modules/Magerun_Reproduce.xml app/etc/modules/Magerun_Reproduce.xml
+src/app/code/community/Magerun/Reproduce2/ app/code/community/Magerun/Reproduce2/
+src/app/etc/modules/Magerun_Reproduce2.xml app/etc/modules/Magerun_Reproduce2.xml
